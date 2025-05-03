@@ -12,6 +12,11 @@ import { StyleSheet } from "react-native";
         fontSize:32,
         fontWeight:700,
         color:'#0004FF'
+    },
+
+    logo:{
+        height:34,
+        width:134,
     }
 })
 
