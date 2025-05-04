@@ -5,8 +5,10 @@ import { StyleSheet } from "react-native";
  const styles = StyleSheet.create({
     container:{
         flex:1, 
-        justifyContent:'center', 
-        alignItems:'center'
+        alignItems:'center',
+        backgroundColor:'#d0d2d8',
+        paddingTop:62,
+        padding:24
     },
     text:{
         fontSize:32,
