@@ -8,7 +8,8 @@ import { StyleSheet } from "react-native";
         alignItems:'center',
         backgroundColor:'#d0d2d8',
         paddingTop:62,
-        padding:24
+        padding:24,
+        gap:8
     },
     text:{
         fontSize:32,
